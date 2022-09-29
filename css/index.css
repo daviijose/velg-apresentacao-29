@@ -1,0 +1,129 @@
+.header_master{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient( to right, #F4F4C4,#f7f7d0,snow, white );
+}
+
+.subheader_master{
+    border-radius: 4px;
+    border-color: #c9c7c7;
+    border-width: 4px;
+    border-style: solid;
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+   
+    padding: 20px;
+    background-image: linear-gradient( to right, #d3d3d3,#c2c2c2,#c1c1c1, #c1c1c6 );
+}
+
+.caixa2{
+    border-radius: 4px;
+    border-color: coral(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: coral;
+    display: flex;
+    align-items: center;
+    
+}
+
+.caixa3{
+    border-radius: 4px;
+    border-color:#ECEC30(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #ECEC30;
+    display: flex;
+    align-items: center;
+}
+
+.caixa4{
+    border-radius: 4px;
+    border-color: #236C23(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #236C23;
+    display: flex;
+    align-items: center;
+}
+
+.caixa5{
+    border-radius: 4px;
+    border-color: #60609F(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #60609F;
+    display: flex;
+    align-items: center;
+}
+
+.caixa6{
+    border-radius: 4px;
+    border-color: #6B3C8b(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #6B3C8A;
+    display: flex;
+    align-items: center;
+}
+
+.caixa1{
+    border-radius: 4px;
+    border-color: #CC4F4F(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color:#CC4F4F;
+    display: flex;
+    align-items: center;
+}
+
+.News_master{
+ 
+    height:3000px;
+    background-image: linear-gradient( to right, #F4F4C4,#f7f7d0,snow, white );
+}
+.barra_news{
+   
+
+    background-image: linear-gradient( to right,#e6e650, #ECEC30 );
+    display: flex;
+    height:60px;
+    align-items: center;
+}
+
+.box_direita{
+    display: flex;
+    float: right;
+    background-color: #e2e1e1;
+    width: 600px;
+    height:1450px;
+    margin-top: 45px;
+    margin-right: 45px;
+    border-radius: 4px;
+    border-color:#e2e2e2;
+    border-width: 3px;
+    border-style: solid;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cartaz_direita{
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box_esquerda{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+    
+    margin-left: 45px;
+}
+
+
